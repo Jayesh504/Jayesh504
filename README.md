@@ -14,7 +14,7 @@
 
 - 👯 I’m solved around 100+ DSA problems on various platforms.
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/jayesh504?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/pjayesh504?tab=repositories)**
 
 - 📫 How to reach me **pjayesh504@gmail.com**
 
@@ -53,15 +53,15 @@
 ## 📊 My Github Stats
   <br/>
   <p align="center">
-    <a href="https://github.com/jayesh504/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayesh Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayesh504&theme=black-ice&hide_border=false&stroke=0000&background=0D1117"/>
+    <a href="https://github.com/pjayesh504/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayesh Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pjayesh504&theme=black-ice&hide_border=false&stroke=0000&background=0D1117"/>
     </a>
 </p>
 <br/>
 <p align="center">
-    <a href="https://github.com/jayesh504/github-readme-stats"><img alt="Jayesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayesh504&show_icons=true&count_private=true&theme=react&hide_border=flase&bg_color=0D1117" /></a>
+    <a href="https://github.com/pjayesh504/github-readme-stats"><img alt="Jayesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pjayesh504&show_icons=true&count_private=true&theme=react&hide_border=flase&bg_color=0D1117" /></a>
   &nbsp
-  <a href="https://github.com/jayesh504/github-readme-stats"><img alt="Jayesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh504&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/pjayesh504/github-readme-stats"><img alt="Jayesh Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjayesh504&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
   <br/>
 </p>
 
@@ -78,7 +78,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/jayesh504/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jayesh504">
+<a href="https://github.com/pjayesh504/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pjayesh504">
 </a>
-<a href="https://github.com/jayesh504?tab=followers"><img src="https://img.shields.io/github/followers/jayesh504?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/pjayesh504?tab=followers"><img src="https://img.shields.io/github/followers/pjayesh504?label=Followers&style=social" alt="GitHub Badge"></a>
