@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Jayesh</h2>
 
 <h3 align="center">I'm a passionate Front End developer with proven experience At Zensar Technologies. I have 7 Months of experience working on HTML, CSS, JavaScript, Bootstrap, Node.Js and React.Js.</h3>
-<h3 align="center"> Resume: <a href="https://bit.ly/47fApJj">Jayesh Patil</a> </h3>
+<h3 align="center"> Resume: <a href="https://bit.ly/JayeshPatilResume">Jayesh Patil</a> </h3>
 <br/>
 
 ## 🙋‍♂️ About Me
