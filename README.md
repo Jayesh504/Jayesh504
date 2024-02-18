@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m solved around 100+ DSA problems on various platforms.
+- 👯 I’m solved around 500+ DSA problems on various platforms.
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/pjayesh504?tab=repositories)**
 
