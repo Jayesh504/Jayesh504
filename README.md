@@ -70,6 +70,7 @@
 
 <br/>
 
+<a href="https://app.daily.dev/pjayesh504"><img src="https://api.daily.dev/devcards/v2/oNADffZwtkm6iMJU8rXop.png?r=gr8&type=default" width="356" alt="Jayesh Patil's Dev Card"/></a>
 
 ## Connect with me:
 <p align="left">
